@@ -1,13 +1,14 @@
 ---
 layout: default
-description: Omtanke . Tillit . Måttfullhet
+title: Sparti AB
+description: Omtanke | Tillit | Måttfullhet
 author:
   name: Thobias Bergqvist
   mail: thobias.bergqvist@sparti.se
 ---
 
-## Omtanke
+{{ site.description }}
 
-## Tillit
+## Vill du vara med
 
-## Måttfullhet
+Skicka iväg ett mail till mig, [{{ page.author.name }}](mailto://{{page.author.mail}}), så hör jag av mig så fort jag kan.
