@@ -1,12 +1,12 @@
 title: Sparti
-description: IT-konsulter med omtanke, måttfullhet och tillit som ledstjärnor.
+description: Omtanke Måttfullhet Tillit
 orgnr: 559139-4290
 
 footer:
   navigation:
     - url: /arbetskamrater.html
-    - url: /handbok.html
-    - url: /tillganglighet.html
+#    - url: /handbok.html
+#    - url: /tillganglighet.html
 
 contact:
   mail: kontakt@sparti.se
