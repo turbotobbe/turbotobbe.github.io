@@ -1,7 +1,7 @@
 ---
 layout: article
 title: This is Sparti!
-description: Sparti är ett IT konsult företag som bygger på tre principer.
+description: Sparti är ett litet företag som grundar sig i tre principer.
   Att se till våra arbetskamraters bästa, att begränsa våra behov till det vi behöver
   och att lita på varandras förmåga att fatta rätt beslut.
 
