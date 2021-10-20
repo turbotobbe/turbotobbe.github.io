@@ -1,0 +1,5 @@
+{% if include.use_mail %}
+<a href="mailto:{{ include.person.mail }}">{{ include.person.mail }}</a>
+{% else %}
+<a href="mailto:{{ include.person.mail }}">{{ include.person.name }}</a>
+{% endif %}

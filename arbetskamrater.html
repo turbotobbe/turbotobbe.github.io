@@ -1,0 +1,39 @@
+---
+layout: article
+title: Arbetskamrater
+description: Det är vi som är Sparti.
+  Vi letar hela tiden efter fler personer som vill vara med.
+  Är du nyfiken på vilka vi är och vad vi gör får du gärna höra av dig.
+date: 2020-12-21
+---
+
+<nav>
+{% for lineup in site.data.lineups %}
+  {% for photo in lineup.photos %}
+  <div class="foto-frame">
+    <img src="{{ photo.url }}" aria-labelledby="{{ lineup.key }}-{{ photo.key }}" />
+    <span id="{{ lineup.key }}-{{ photo.key }}">Arbetskamrater {% include date.html date=photo.date %}</span>
+    <ul>
+    {% for photo_person in photo.people %}
+      {% for person in site.people %}
+        {% if photo_person.key == person.key %}
+          <li>
+            <a href="#{{ photo_person.key }}"><img aria-hidden="true" src="{{ photo_person.url }}" alt="{{ person.name }}" />{{ person.name }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+    <img aria-hidden="true" class="foto-glass" src="{{ photo.url}}" aria-labelledby="{{ lineup.key }}-{{ photo.key }}" />
+  </div>
+  {% endfor %}
+{% endfor %}
+</nav>
+
+{% for person in site.people %}
+  {% if person.active %}
+    <hr />
+    <h2 id={{ person.key }}>{{ person.name }}</h2>
+    {{ person.content | markdownify }}
+  {% endif %}
+{% endfor %}

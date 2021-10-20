@@ -1,0 +1,8 @@
+- key: lineup-2020
+  photos:
+    - key: a
+      url: /assets/images/sparti-20200314.jpg
+      date: 2020-03-14
+      people:
+        - key: thobias-bergqvist
+          url: /assets/images/sparti-20200314-thobias-bergqvist.jpg

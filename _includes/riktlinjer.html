@@ -1,0 +1,30 @@
+{% for riktlinje in site.data.riktlinjer %}
+  <hr />
+  <div class="rl state-{{ riktlinje.state }}">
+    <div class="rl-info">
+      <span>Riktlinje</span> {{riktlinje.nr}}
+      <span>WCAG</span> {{ riktlinje.wcag }} ({{ riktlinje.level }})
+      <span>Status</span>
+      {% if riktlinje.state == 'ok' %}
+        <span>Klar</span>
+      {% elsif riktlinje.state == 'partial' %}
+        <span>Delvis OK</span>
+      {% elsif riktlinje.state == 'fail' %}
+        <span>Ej godkänd</span>
+      {% elsif riktlinje.state == 'na' %}
+        <span>Ej relevant</span>
+      {% else %}
+        <span>Ej granskad</span>
+      {% endif %}
+    </div>
+    <div>{{ riktlinje.name }}</div>
+    <div class="">
+      <a href="{{ riktlinje.url }}">Riktlinje {{ riktlinje.nr }} på webbriktlinjer.se</a>
+    </div>
+    {% if riktlinje.note %}
+    <blockquote class="rl-note">
+      {{ riktlinje.note }}
+    </blockquote>
+    {% endif %}
+  </div>
+{% endfor %}

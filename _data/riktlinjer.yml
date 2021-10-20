@@ -1,0 +1,352 @@
+- wcag: 1.1.1
+  state: ok
+  level: A
+  nr: 115
+  url: https://webbriktlinjer.se/riktlinjer/115-textalternativ/
+  name: Beskriv med text allt innehåll som inte är text
+
+- wcag: 1.2.1
+  state: na
+  level: A
+  nr: 116
+  url: https://webbriktlinjer.se/riktlinjer/116-alternativ-vid-enbart-ljud-video/
+  name: Erbjud alternativ om en inspelning enbart består av ljud eller video
+
+- wcag: 1.2.2
+  state: na
+  level: A
+  nr: 117
+  url: https://webbriktlinjer.se/riktlinjer/117-texta-inspelad-rorlig-media/
+  name: Texta inspelad rörlig media (video, ljud, animationer…)
+
+- wcag: 1.2.3
+  state: na
+  level: A
+  nr: 118
+  url: https://webbriktlinjer.se/riktlinjer/118-syntolka-eller-erbjud-alternativ-till-videoinspelningar/
+  name: Syntolka eller erbjud alternativ till videoinspelningar
+
+- wcag: 1.2.4
+  state: na
+  level: AA
+  nr: 119
+  url: https://webbriktlinjer.se/riktlinjer/119-texta-direktsandningar/
+  name: Texta direktsändningar
+
+- wcag: 1.2.5
+  state: na
+  level: AA
+  nr: 120
+  url: https://webbriktlinjer.se/riktlinjer/120-syntolka-videoinspelningar/
+  name: Syntolka videoinspelningar
+
+- wcag: 1.3.1
+  state: ok
+  level: A
+  nr: 121
+  url: https://webbriktlinjer.se/riktlinjer/121-ange-i-kod-vad-sidans-olika-delar-har-for-roll/
+  name: Ange i kod vad sidans olika delar har för roll
+
+- wcag: 1.3.2
+  state: ok
+  level: A
+  nr: 122
+  url: https://webbriktlinjer.se/riktlinjer/122-meningsfull-ordning/
+  name: Presentera innehållet i en meningsfull ordning för alla
+
+- wcag: 1.3.3
+  state: ok
+  level: A
+  nr: 123
+  url: https://webbriktlinjer.se/riktlinjer/123-ej-beroende-av-sensoriska-kannetecken/
+  name: Gör inte instruktioner beroende av sensoriska kännetecken
+
+- wcag: 1.3.4
+  state: ok
+  level: AA
+  nr: 153
+  url: https://webbriktlinjer.se/riktlinjer/153-fungerar-oavsett-skarmens-riktning/
+  name: Se till att allt innehåll presenteras rätt oavsett skärmens riktning
+
+- wcag: 1.3.5
+  state: na
+  level: AA
+  nr: 154
+  url: https://webbriktlinjer.se/riktlinjer/154-mark-upp-vanliga-formularfalt-i-koden/
+  name: Märk upp vanliga formulärfält i koden
+
+- wcag: 1.4.1
+  state: ok
+  level: A
+  nr: 124
+  url: https://webbriktlinjer.se/riktlinjer/124-inte-bara-farg/
+  name: Använd inte enbart färg för att förmedla information
+
+- wcag: 1.4.10
+  state: ok
+  level: AA
+  nr: 91
+  url: https://webbriktlinjer.se/riktlinjer/91-skapa-en-flexibel-layout/
+  name: Skapa en flexibel layout som fungerar vid förstoring eller liten skärm
+
+- wcag: 1.4.11
+  state: ok
+  level: AA
+  nr: 156
+  url: https://webbriktlinjer.se/riktlinjer/156-anvand-tillrackliga-kontraster-i-komponenter-och-grafik/
+  name: Använd tillräckliga kontraster i komponenter och grafik
+
+- wcag: 1.4.12
+  state: ok
+  level: AA
+  nr: 157
+  url: https://webbriktlinjer.se/riktlinjer/157-avstand-mellan-tecken-rader-stycken-och-ord/
+  name: Se till att det går att öka avstånd mellan tecken, rader, stycken och ord
+
+- wcag: 1.4.13
+  state: na
+  level: AA
+  nr: 158
+  url: https://webbriktlinjer.se/riktlinjer/158-popup-funktioner-ska-kunna-hanteras-och-stangas-av-alla/
+  name: Popup-funktioner ska kunna hanteras och stängas av alla
+
+- wcag: 1.4.2
+  state: na
+  level: A
+  nr: 125
+  url: https://webbriktlinjer.se/riktlinjer/125-kunna-pausa-ljud/
+  name: Ge användaren möjlighet att pausa, stänga av eller sänka ljud
+
+- wcag: 1.4.3
+  state: ok
+  level: AA
+  nr: 126
+  url: https://webbriktlinjer.se/riktlinjer/126-tillrackliga-kontraster/
+  name: Använd tillräcklig kontrast mellan text och bakgrund
+
+- wcag: 1.4.4
+  state: ok
+  level: AA
+  nr: 127
+  url: https://webbriktlinjer.se/riktlinjer/127-se-till-att-text-gar-att-forstora-utan-problem/
+  name: Se till att text går att förstora utan problem
+
+- wcag: 1.4.5
+  state: ok
+  level: AA
+  nr: 128
+  url: https://webbriktlinjer.se/riktlinjer/128-anvand-text-inte-bilder-for-att-visa-text/
+  name: Använd text, inte bilder, för att visa text
+
+- wcag: 2.1.1
+  state: ok
+  level: A
+  nr: 129
+  url: https://webbriktlinjer.se/riktlinjer/129-gar-att-hantera-med-tangentbord/
+  name: Utveckla systemet så att det går att hantera med enbart tangentbordet
+
+- wcag: 2.1.2
+  state: ok
+  level: A
+  nr: 130
+  url: https://webbriktlinjer.se/riktlinjer/130-se-till-att-markoren-inte-fastnar-vid-tangentbordsnavigation/
+  name: Se till att markören inte fastnar vid tangentbordsnavigation
+
+- wcag: 2.1.4
+  state: ok
+  level: A
+  nr: 68
+  url: https://webbriktlinjer.se/riktlinjer/68-skapa-snabbkommandon-for-viktiga-funktioner/
+  name: Skapa kortkommandon med varsamhet
+  note: Vi har inga kortkommandon
+
+- wcag: 2.2.1
+  state: na
+  level: A
+  nr: 131
+  url: https://webbriktlinjer.se/riktlinjer/131-ge-anvandarna-mojlighet-att-justera-tidsbegransningar/
+  name: Ge användarna möjlighet att justera tidsbegränsningar
+
+- wcag: 2.2.2
+  state: na
+  level: A
+  nr: 132
+  url: https://webbriktlinjer.se/riktlinjer/132-ge-anvandarna-mojlighet-att-pausa-eller-stanga-av-rorelser/
+  name: Ge användarna möjlighet att pausa eller stänga av rörelser
+
+- wcag: 2.3.1
+  state: ok
+  level: A
+  nr: 133
+  url: https://webbriktlinjer.se/riktlinjer/133-orsaka-inte-epileptiska-anfall-genom-blinkande/
+  name: Orsaka inte epileptiska anfall genom blinkande
+
+- wcag: 2.4.1
+  state: na
+  level: A
+  nr: 75
+  url: https://webbriktlinjer.se/riktlinjer/75-gruppera-och-skapa-mojlighet-att-hoppa-forbi-delar-pa-sidorna/
+  name: Erbjud möjlighet att hoppa förbi återkommande innehåll
+  note: Huvudnavigationen ligger i sidfoten, vilket gör att huvudinnehållet kommer först.
+    Därför anser vi inte att denna möjlighet tillför något.
+
+- wcag: 2.4.2
+  state: ok
+  level: A
+  nr: 135
+  url: https://webbriktlinjer.se/riktlinjer/135-skriv-beskrivande-sidtitlar/
+  name: Skriv beskrivande sidtitlar
+
+- wcag: 2.4.3
+  state: ok
+  level: A
+  nr: 136
+  url: https://webbriktlinjer.se/riktlinjer/136-gor-en-logisk-tab-ordning/
+  name: Gör en logisk tab-ordning
+
+- wcag: 2.4.4
+  state: ok
+  level: A
+  nr: 5
+  url: https://webbriktlinjer.se/riktlinjer/5-skriv-tydliga-lankar/
+  name: Skriv tydliga länkar
+
+- wcag: 2.4.5
+  state: na
+  level: AA
+  nr: 32
+  url: https://webbriktlinjer.se/riktlinjer/32-erbjud-besokaren-alternativa-orienteringsstod/
+  name: Erbjud användarna flera olika sätt att navigera
+
+- wcag: 2.4.6
+  state: ok
+  level: AA
+  nr: 61
+  url: https://webbriktlinjer.se/riktlinjer/61-skriv-tydliga-och-berattande-rubriker/
+  name: Skriv beskrivande rubriker och etiketter
+
+- wcag: 2.4.7
+  state: ok
+  level: AA
+  nr: 140
+  url: https://webbriktlinjer.se/riktlinjer/140-markera-element-i-fokus/
+  name: Markera tydligt vilket fält eller element som är i fokus
+
+- wcag: 2.5.1
+  state: na
+  level: A
+  nr: 160
+  url: https://webbriktlinjer.se/riktlinjer/160-erbjud-alternativ-till-komplexa-fingerrorelser/
+  name: Erbjud alternativ till komplexa fingerrörelser
+
+- wcag: 2.5.2
+  state: na
+  level: A
+  nr: 161
+  url: https://webbriktlinjer.se/riktlinjer/161-gor-det-mojligt-att-angra-klick/
+  name: Gör det möjligt att ångra klick
+
+- wcag: 2.5.3
+  state: na
+  level: A
+  nr: 162
+  url: https://webbriktlinjer.se/riktlinjer/162-mojliggor-roststyrning-av-knappar-och-kontroller/
+  name: Se till att text på knappar och kontroller överensstämmer med maskinläsbara etiketter
+
+- wcag: 2.5.4
+  state: ok
+  level: A
+  nr: 163
+  url: https://webbriktlinjer.se/riktlinjer/163-erbjud-alternativ-till-rorelsestyrning/
+  name: Erbjud alternativ till rörelsestyrning
+
+- wcag: 3.1.1
+  state: ok
+  level: A
+  nr: 141
+  url: https://webbriktlinjer.se/riktlinjer/141-ange-sidans-sprak-i-koden/
+  name: Ange sidans språk i koden
+
+- wcag: 3.1.2
+  state: na
+  level: AA
+  nr: 142
+  url: https://webbriktlinjer.se/riktlinjer/142-ange-sprakforandringar-koden/
+  name: Ange språkförändringar i koden
+
+- wcag: 3.2.1
+  state: ok
+  level: A
+  nr: 143
+  url: https://webbriktlinjer.se/riktlinjer/143-utfor-inga-ovantade-forandringar-vid-fokusering/
+  name: Utför inga oväntade förändringar vid fokusering
+
+- wcag: 3.2.2
+  state: na
+  level: A
+  nr: 144
+  url: https://webbriktlinjer.se/riktlinjer/144-utfor-inga-ovantade-forandringar-vid-inmatning/
+  name: Utför inga oväntade förändringar vid inmatning
+
+- wcag: 3.2.3
+  state: ok
+  level: AA
+  nr: 29
+  url: https://webbriktlinjer.se/riktlinjer/29-var-konsekvent-i-navigation-struktur-och-utformning/
+  name: Var konsekvent i navigation, struktur och utformning
+
+- wcag: 3.2.4
+  state: na
+  level: AA
+  nr: 146
+  url: https://webbriktlinjer.se/riktlinjer/146-benamn-funktioner-konsekvent/
+  name: Benämn funktioner konsekvent
+
+- wcag: 3.3.1
+  state: na
+  level: A
+  nr: 2
+  url: https://webbriktlinjer.se/riktlinjer/2-ge-begripliga-felmeddelanden/
+  name: Visa var ett fel uppstått och beskriv det tydligt
+
+- wcag: 3.3.2
+  state: na
+  level: A
+  nr: 55
+  url: https://webbriktlinjer.se/riktlinjer/55-skapa-tydliga-och-klickbara-faltetiketter/
+  name: Skapa tydliga och klickbara fältetiketter
+
+- wcag: 3.3.3
+  state: na
+  level: AA
+  nr: 149
+  url: https://webbriktlinjer.se/riktlinjer/149-ge-forslag-pa-hur-fel-kan-rattas-till/
+  name: Ge förslag på hur fel kan rättas till
+
+- wcag: 3.3.4
+  state: na
+  level: AA
+  nr: 150
+  url: https://webbriktlinjer.se/riktlinjer/150-ge-mojlighet-att-angra-korrigera-eller-bekrafta-viktiga-transaktioner/
+  name: Ge möjlighet att ångra, korrigera eller bekräfta vid viktiga transaktioner
+
+- wcag: 4.1.1
+  state: ok
+  level: A
+  nr: 84
+  url: https://webbriktlinjer.se/riktlinjer/84-se-till-att-koden-validerar/
+  name: Se till att koden validerar
+
+- wcag: 4.1.2
+  state: na
+  level: A
+  nr: 152
+  url: https://webbriktlinjer.se/riktlinjer/152-se-till-att-skraddarsydda-komponenter-fungerar-hjalpmedel/
+  name: Se till att skräddarsydda komponenter fungerar i hjälpmedel
+
+- wcag: 4.1.3
+  state: na
+  level: AA
+  nr: 164
+  url: https://webbriktlinjer.se/riktlinjer/164-meddelanden-som-inte-ar-fokus/
+  name: Se till att hjälpmedel kan presentera meddelanden som inte är i fokus

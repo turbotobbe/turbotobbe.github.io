@@ -1,24 +1,16 @@
 ---
 layout: default
+title: 404 Not Found
+description: Ops! Sidan du letar efter verkar inte finnas. Det kan vara så att den har tagits bort eller flyttat någon annanstans.
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<h1>{{ page.title }}</h1>
 
-<div class="container">
-  <h1>404</h1>
+<p class="ingress">{{ page.description }}</p>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<p>
+  Vi föreslår att du hör av dig till
+  <a href="mailto:{{ site.contact.mail}} ">{{ site.contact.mail }}</a>
+  om du saknar den eller börjar från början på
+  <a href="{{ site.url }}">{{ site.url}}</a>.
+</p>

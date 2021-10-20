@@ -1,0 +1,10 @@
+<address>
+  <div class="address-item">
+    <div class="ft-subtitle">Telefon</div>
+    {% include link_phone.html person=include.person %}
+  </div>
+  <div class="address-item">
+    <div class="ft-subtitle">E-post</div>
+    {% include link_mail.html person=include.person use_mail=true %}
+  </div>
+</address>

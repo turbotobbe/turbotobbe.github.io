@@ -1,0 +1,49 @@
+main {
+  blockquote {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  address {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    .address-item {
+      min-width: 10rem;
+      margin-right: 2rem;
+    }
+  }
+  nav {
+    .foto-frame {
+      margin: 0px;
+      position: relative;
+      .foto-glass {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+      }
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        padding: 0px;
+        li {
+          padding-right: .5rem;
+          word-break: keep-all;
+          a img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            transition: opacity 0.35s;
+          }
+          a:hover img,
+          a:focus img {
+             opacity: 1;
+             transition: opacity 0.35s;
+          }
+        }
+      }
+    }
+  }
+}
