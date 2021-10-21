@@ -1,15 +1,15 @@
 title: Sparti
-description: Omtanke Måttfullhet Tillit
+description: Omtanke Tillit Måttfullhet
 orgnr: 559139-4290
 
 footer:
   navigation:
-    - url: /arbetskamrater.html
+    - url: /vi-ar-sparti.html
 #    - url: /handbok.html
 #    - url: /tillganglighet.html
 
 contact:
-  mail: kontakt@sparti.se
+  mail: info@sparti.se
   phone:
     href: "+46735318592"
     text: "073 531 85 92"
