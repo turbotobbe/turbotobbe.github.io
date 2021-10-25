@@ -42,7 +42,15 @@ plugins:
   - jekyll-seo-tag
 
 exclude:
+  - about.md
+  - build.sh
+  - CNAME
+  - design.md
   - Dockerfile
+  - Gemfile*
+  - handbok.md
+  - jekyll.sh
   - read_csv.rb
   - README.md
-  - Gemfile*
+  - tillganglighet.md
+  - wcag.csv
