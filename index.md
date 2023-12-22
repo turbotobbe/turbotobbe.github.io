@@ -28,7 +28,7 @@ Det sägs att de spartanska soldaternas mödrar ofta sa följande till sina sön
 > Kom hem med din sköld, eller på den!
 
 Men det menade man att man önskade sina söner ett av två möjliga utfall.
-Att komma tillbaka helskinnad från striden som segrare eller buren på sin sköld som ett tecken att man givit sitt liv för Sparta.
+Att komma tillbaka helskinnad från striden som segrare eller buren på sin sköld som ett tecken att man givit sitt liv för sina bröder.
 Det som inte sas, men som var underförstått, var att man inte borde komma hem vid liv utan sin sköld.
 Detta betydde nämligen att man förlorat sin sköld i striden och sedan fegs skyndat hem utan och lämnat sina kamrater på slagfältet.
 
@@ -61,20 +61,20 @@ Tillit är något vi tar på stort allvar.
 Även om alla inte känner alla lika mycket, så är vi säkra på att grundinställningen hos varje arbetskamrat bygger på samma principer.
 Detta gör att vi har en grundtillit till alla som arbetar här.
 
-Och skulle vi någonsin befinna oss på ett slagfält så litar vi på att våra medarbetare hjälper oss istället för att
+Och skulle vi någonsin befinna oss på ett slagfält så litar vi på att våra medarbetare även där hjälper oss istället för att
 rädda sitt eget skinn.
 
 ## Måttfullhet
 
 Spartanerna var kända för mycket. Det har till och med myntats ett adjektiv för att beskriva dessa grekers levnadssätt.
-_Att leva spartanskt_ säger man ibland och menar då att leva under enkla förhållanden.
+_Att leva spartanskt_ säger man ibland och syftar då till att leva under enkla förhållanden.
 
 På Sparti tycker vi att det är en ynnest att leva efter spartanskt principer.
 Vi menar inte att man skall leva fattigt eller undanhålla sig allt.
 Däremot bör man fokusera på det man behöver, istället för att ständigt sträva efter mer.
 
-Det finns en viss typ av belåtenhet som infinner sig när man klarar sig på det man har. Den belåtenheten utebli och ersätts av stress när man hela tiden letar efter sätt att förbättra och uppgradera.
-Den belåtenheten tror vi är bra för oss som människor.
+Det finns en viss typ av belåtenhet som infinner sig när man klarar sig på det man har. När man inte längre tävlar med sina medmänniskor. Den belåtenheten utebli och ersätts av stress när man hela tiden letar efter sätt att roffa åt sig mer.
+Den belåtenheten tror vi är nödvändig för vårat välmående.
 
 När man till exempel nöjt tar sin tio år gamla ryggsäck, sliten efter år av bruk,
 istället för att gå och köpa en ny när man ska ge sig ut på äventyr.
