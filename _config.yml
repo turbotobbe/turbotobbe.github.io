@@ -36,8 +36,7 @@ google_analytics:
 url: "https://www.sparti.se" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 
-remote_theme: https://github.com/turbotobbe/jekyll-theme-sparti
-#remote_theme: turbotobbe/jekyll-theme-sparti
+remote_theme: turbotobbe/jekyll-theme-sparti
 theme: jekyll-theme-sparti
 plugins:
   - jekyll-seo-tag
