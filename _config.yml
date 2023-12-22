@@ -37,7 +37,7 @@ url: "https://www.sparti.se" # the base hostname & protocol for your site, e.g. 
 markdown: kramdown
 
 remote_theme: turbotobbe/jekyll-theme-sparti
-theme: jekyll-theme-sparti
+#theme: jekyll-theme-sparti
 plugins:
   - jekyll-seo-tag
 
