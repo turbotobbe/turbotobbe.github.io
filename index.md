@@ -19,7 +19,7 @@ Förutom mina konsulttjänster erbjuder jag omfattande workshops designade för 
 Utöver konsulttjänster och workshops tar jag även på mig kompletta projekt för att leverera helhetslösningar. Oavsett om du behöver en kundtjänstchattbot, verktyg för automation eller någon annan AI-driven produkt, kan jag utveckla och implementera lösningen från början till slut. Detta gör att du kan fokusera på din kärnverksamhet medan jag hanterar de tekniska komplexiteterna.
 
 ### Dubbel roll: Expert och coach
-På Sparti tillhandahåller vi inte bara lösningar; vi stärker ditt team. Vi fungerar som både expert och coach, vilket säkerställer att din personal får den expertis som behövs för att underhålla och bygga vidare på de lösningar jag implementerar. Vi tror på att bygga kapaciteter inom din organisation och främja en kultur av nyfikenhet och samarbete.
+På Sparti tillhandahåller vi inte bara lösningar; vi stärker ditt team. Vi fungerar som både expert och coach, vilket säkerställer att din personal får den expertis som behövs för att underhålla och bygga vidare på de lösningar vi implementerar. Vi tror på att bygga kapaciteter inom din organisation och främja en kultur av nyfikenhet och samarbete.
 
 ## Mina tjänster
 
@@ -43,11 +43,7 @@ På Sparti tillhandahåller vi inte bara lösningar; vi stärker ditt team. Vi f
 Sparti är dedikerat till att hjälpa företag att blomstra med hjälp av AI. Tveka inte att ta kontakt och berätta om dina specifika behov och mål. Jag är här för att tillhandahålla den expertis och support som krävs för att göra din vision till verklighet.
 
 ### Kontakta mig
-- **E-post:** [info@sparti.se](mailto:info@sparti.se)
-- **Telefon:** 073-531 8592
+- **E-post:** [{{ site.contact.mail }}](mailto:{{ site.contact.mail }})
+- **Telefon:** [{{ site.contact.phone.href }}]({{ site.contact.phone.text }})
 
 Kontakta mig idag och upptäck hur Sparti kan hjälpa ditt företag att utnyttja kraften i AI.
-
----
-
-*Stärker företag genom AI och mjukvaruutveckling. Låt oss innovera tillsammans.*
