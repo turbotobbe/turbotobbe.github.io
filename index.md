@@ -44,6 +44,6 @@ Sparti är dedikerat till att hjälpa företag att blomstra med hjälp av AI. Tv
 
 ### Kontakta mig
 - **E-post:** [{{ site.contact.mail }}](mailto:{{ site.contact.mail }})
-- **Telefon:** [{{ site.contact.phone.href }}]({{ site.contact.phone.text }})
+- **Telefon:** [{{ site.contact.phone.text }}](tel:{{ site.contact.phone.href }})
 
 Kontakta mig idag och upptäck hur Sparti kan hjälpa ditt företag att utnyttja kraften i AI.
