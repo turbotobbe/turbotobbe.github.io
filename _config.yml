@@ -4,6 +4,7 @@ orgnr: 559139-4290
 
 footer:
   navigation:
+    - url: /this-is-sparti.html
     - url: /vi-ar-sparti.html
 #    - url: /handbok.html
 #    - url: /tillganglighet.html
